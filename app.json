@@ -6,14 +6,6 @@
     "keywords": ["releases", "download", "github", "squirrel", "desktop"],
     "env": {
         "GITHUB_REPO": "fivefan/framerflow",
-        "GITHUB_TOKEN": {
-            "description": "Access token for GitHub API"
-        },
-        "API_USERNAME": {
-            "description": "Username for private API access"
-        },
-        "API_PASSWORD": {
-            "description": "Password for private API access"
-        }
+        "GITHUB_TOKEN": "06cd79b84076a17bb4cac32572c56d4815e50ddc"
     }
 }
