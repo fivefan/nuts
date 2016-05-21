@@ -5,9 +5,7 @@
     "website": "https://github.com/GitbookIO/nuts",
     "keywords": ["releases", "download", "github", "squirrel", "desktop"],
     "env": {
-        "GITHUB_REPO": {
-            "description": "Repository for the application's releases"
-        },
+        "GITHUB_REPO": "fivefan/framerflow",
         "GITHUB_TOKEN": {
             "description": "Access token for GitHub API"
         },
